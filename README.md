@@ -1,4 +1,4 @@
-# Pong3D
- Simple pong with unity
+# Png3D
+ Simple setup with unity
 
  Play on [Itch](https://thilina27.itch.io/simple-pong)
